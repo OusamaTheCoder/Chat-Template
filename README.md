@@ -26,13 +26,13 @@ ChatApp is a Flutter-based mobile application template designed to kickstart you
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/OusamaTheCoder/ChatApp.git
+   git clone https://github.com/OusamaTheCoder/Chat-Template.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd ChatApp
+   cd Chat-Template
    ```
 
 3. Install dependencies:
