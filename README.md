@@ -1,4 +1,3 @@
-```markdown
 # ChatApp - Flutter Application Template
 
 ![Flutter](https://img.shields.io/badge/Flutter-2.0+-blue.svg)
